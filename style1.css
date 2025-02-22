@@ -1,0 +1,59 @@
+.f1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.f1 div input{
+    box-shadow: 5px 5px 20px lightblue;
+}
+.f2{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.f2 div input{
+    box-shadow: 5px 5px 20px lightblue;
+    padding-right:130px;
+}
+.f3 div input{
+    box-shadow: 5px 5px 20px lightblue;
+    padding-left:350px;
+    padding-right: 160px;
+    padding-bottom: 50px;
+}
+p{
+    padding-left: 520px;
+}
+.f4{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.f4 div input{
+    box-shadow: 5px 5px 20px lightblue;
+    padding-right:130px;
+}
+.f5{
+    text-align: center;
+}
+.f5 input{
+    border-radius: 10px;
+}
+.x1{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding-bottom: 250px;
+}
+.l1{
+    padding-top: 300px;
+    text-align: center;
+    background-color:plum;
+    height: 440px;
+}
+.l1 p{
+    padding-left: 20px;
+    font-size: 20px;
+}
+.l2{
+    padding-left: 10px;
+}
+.form{
+    background-color: white;
+}
